@@ -3,15 +3,36 @@
 </div>
 
 
-# AdVance
+# 🌟AdVance
 
-# Run and deploy your AI Studio app
+AI-Powered E-Commerce Marketing Suite
 
-This contains everything you need to run your app locally.
+AdVance is a next-generation marketing tool designed for modern entrepreneurs. By simply uploading a raw product photo, Lumina orchestrates multiple specialized AI models to generate a complete professional marketing suite, including SEO copy, social media content, high-end lifestyle photography, and cinematic video ads.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 🚀 Features
+
+- **Multimodal Orchestration**: Uses **Gemini 1.5 Pro** as a "Creative Director" to analyze products and guide secondary AI models.
+- **Instant SEO & Social Copy**: Generates benefit-driven product descriptions and tailored captions for Instagram, TikTok, and Facebook.
+- **AI Lifestyle Photography**: Automatically generates professional backgrounds using **Imagen 3**, replacing raw backgrounds with premium environments.
+- **Cinematic Video Generation**: Produces 5-second professional "Hero" advertisements using **Veo 3.1**.
+- **Responsible AI Guardrails**: Built-in validation to detect and reject non-commercial or inappropriate content before processing.
+- **Direct Downloads**: One-click downloading for all generated text, images, and MP4 videos.
+
+---
+
+## 🛠️ Built With
+
+- **Frontend**: React.js, Tailwind CSS (Modern Glassmorphic UI)
+- **AI Orchestration**: Google Gemini 1.5 Pro
+- **Image Generation**: Google Imagen 3
+- **Video Generation**: Google Veo 3.1
+- **Deployment**: Firebase
+
+---
+
+## 📦 Installation & Setup
 
 **Prerequisites:**  Node.js
 
